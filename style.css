@@ -1,0 +1,27 @@
+p {
+    font-size: 18px;
+    text-align: center;
+}
+
+.first{
+    background-color: mintcream;
+    margin-bottom: 50px;
+    padding: 20px;
+    border: 1px solid;
+    color: aqua
+}
+.second {
+    
+    background-color: mintcream;
+    margin-bottom: 50px;
+    padding: 20px;
+    border: 1px solid black;
+    color: aqua
+}
+.third {
+    background-color: mintcream;
+    margin-bottom: 50px;
+    padding: 20px;
+    border: 1px solid red;
+    color: aqua
+}
